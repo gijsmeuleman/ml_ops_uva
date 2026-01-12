@@ -3,7 +3,6 @@ torch-env/
 
 # python
 __pycache__/
-*.py
 
 # data
 *.csv
